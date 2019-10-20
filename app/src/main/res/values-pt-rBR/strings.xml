@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filmes Populares</string>
+    <string name="language_request">language=pt-BR&amp;page=1</string>
+    <string name="movieImg">Imagem do Filme</string>
+</resources>
